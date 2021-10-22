@@ -8,7 +8,7 @@
 #include <stdbool.h>
 #pragma warning(disable : 4996)
 
-int main() {
+int void main() {
 	system("chcp 1251"); // добавляем поддержку русской раскладки
 	system("cls"); // очищаем консоль
 	char current;  // текущий введенный символ
